@@ -12,4 +12,4 @@ function insertCssLink(href) {
 }
 
 // Example usage: Insert a CSS file into the head
-insertCssLink('https://raw.githubusercontent.com/thefunneldiva/bookingsondemand/main/app.css');
+insertCssLink('https://codingtimes.netlify.app/projects/assets/ghl.css');
